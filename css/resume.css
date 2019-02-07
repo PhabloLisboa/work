@@ -67,6 +67,10 @@ p.lead {
   margin-right: 1rem;
 }
 
+.fab{
+  line-height: unset !important;
+}
+
 .social-icons a:last-child {
   margin-right: 0;
 }
